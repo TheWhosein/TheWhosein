@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheWhosein
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 📫 How to reach me huseyn.memmedli.03@gmail.com
 
 <!---
