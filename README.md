@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mobile Development<br>🌱 I’m currently learning Java
+🔭 I’m currently working on Mobile Development<br>🌱 I’m currently learning Java<br>📫 How to reach me huseyn.memmedli.03@gmail.com
 
 
 ## 🌐 Socials:
