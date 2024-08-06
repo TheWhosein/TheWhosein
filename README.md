@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java<br>📫 How to reach me huseyn.memmedli.03@gmail.com
+🌱 I’m currently learning Kotlin<br>📫 How to reach me huseyn.memmedli.03@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-mammadli-a03261238/) 
