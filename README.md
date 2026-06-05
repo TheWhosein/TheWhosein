@@ -5,7 +5,7 @@ I'm a Data Analyst based in Baku, Azerbaijan. I hold a Bachelor's in Computer Sc
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-mammadli-a03261238/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)]      (https://public.tableau.com/app/profile/huseyn.mammadli/vizzes)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/huseyn.mammadli/vizzes)
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
