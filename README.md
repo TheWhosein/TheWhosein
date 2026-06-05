@@ -5,7 +5,7 @@ I'm a Data Analyst based in Baku, Azerbaijan. I hold a Bachelor's in Computer Sc
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husseinmammadli/)
-  [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/huseyn.mammadli/vizzes)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/huseyn.mammadli/vizzes)
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,7 +16,6 @@ I'm a Data Analyst based in Baku, Azerbaijan. I hold a Bachelor's in Computer Sc
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TheWhosein&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
